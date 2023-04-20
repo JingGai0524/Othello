@@ -14,5 +14,5 @@
 
 以下为项目截图展示
 
-<img src="https://github.com/JingGai0524/Othello/blob/main/%E5%B1%95%E7%A4%BA%E6%88%AA%E5%9B%BE2%EF%BC%88Othello%EF%BC%89.png" width="180" height="105">
-<img src="https://github.com/JingGai0524/Othello/blob/main/%E5%B1%95%E7%A4%BA%E6%88%AA%E5%9B%BE1%EF%BC%88Othello%EF%BC%89.png" width="180" height="105">
+<img src="https://github.com/JingGai0524/Othello/blob/main/%E5%B1%95%E7%A4%BA%E6%88%AA%E5%9B%BE2%EF%BC%88Othello%EF%BC%89.png" width="300" height="300">
+<img src="https://github.com/JingGai0524/Othello/blob/main/%E5%B1%95%E7%A4%BA%E6%88%AA%E5%9B%BE1%EF%BC%88Othello%EF%BC%89.png" width="300" height="300">
