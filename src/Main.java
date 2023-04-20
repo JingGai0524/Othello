@@ -13,6 +13,6 @@ public final class Main {
 //        GameSystem.frame.setPanel(new GamePanel());
 //        GameSystem.frame.setPanel(new ClassicChoose());
 //        GameSystem.frame.setPanel(new ComputerGame());
-        System.out.println("My name is Lzj\nI am 19");
+//        System.out.println("My name is Lzj\nI am 19");
     }
 }
